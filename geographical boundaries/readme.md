@@ -1,4 +1,4 @@
-# ONTOFORCE Public Geographical boundaries #
+# Geographical boundaries #
 
 ## License ##
 
